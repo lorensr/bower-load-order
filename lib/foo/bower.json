@@ -1,0 +1,8 @@
+{
+  "name": "bower-load-order",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+      "jquery-payment":"~1.1.6"
+  }
+}
